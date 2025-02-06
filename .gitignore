@@ -1,0 +1,19 @@
+# Node modules and build files
+node_modules/
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
